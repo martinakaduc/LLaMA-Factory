@@ -1,4 +1,107 @@
 {
+  "ultrasuite": {
+    "file_name": "ultrasuite_final_asterisk.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "audios": "audios"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "ultrasuite_woa": {
+    "file_name": "ultrasuite_final_woasterisk.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "audios": "audios"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "gsmq_es_sft_s42_idx0-200": {
+    "file_name": "GSM-Q/gsmq_es_sft_s42_idx0-200.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "kto_tag": "label"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "system_tag": "system",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "gsmq_es_sft_s42_idx0-400": {
+    "file_name": "GSM-Q/gsmq_es_sft_s42_idx0-400.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "kto_tag": "label"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "system_tag": "system",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "gsmq_es_sft_s42_idx0-600": {
+    "file_name": "GSM-Q/gsmq_es_sft_s42_idx0-600.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "kto_tag": "label"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "system_tag": "system",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "gsmq_es_sft_s42_idx0-800": {
+    "file_name": "GSM-Q/gsmq_es_sft_s42_idx0-800.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "kto_tag": "label"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "system_tag": "system",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "gsmq_es_sft_s42_idx0-1000": {
+    "file_name": "GSM-Q/gsmq_es_sft_s42_idx0-1000.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "kto_tag": "label"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "system_tag": "system",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
   "identity": {
     "file_name": "identity.json"
   },

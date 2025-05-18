@@ -1,0 +1,2972 @@
+[
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "palatal-stop pre-test aCa",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/34M/016D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "double-articulation pre-test aCa",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/34M/018D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "palatal-stop teaching no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/10F/063D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "rap chap gap bap",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/44F/013A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "palatal-stop teaching no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/44F/031D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "cardinal-1",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/07F/079D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "close-front-round-vowel teaching no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/29F/043D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "close-back-unrounded-vowel post-test dV",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/51M/047D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "close-back-unrounded-vowel pre-test no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/51M/021D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "swallow",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/51M/053E.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "palatal-stop pre-test no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/51M/013D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "crab biscuits thank you helicopter",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/12M/037A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "kitchen sausage tiger rabbit",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/12M/045A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "retroflex-fricative teaching no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/12M/111D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "close-back-unrounded-vowel teaching no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/12M/100D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "s asa eesee oso",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/05M/006B.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "palatal-stop teaching no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/05M/067D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "akla akra adra",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/05M/021B.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "cardinal-4",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/05M/056D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "spread-lips-post-alveolar-fricative",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/18F/025D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "ch acha eechee ocho",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/18F/009B.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "ch acha eechee ocho",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/21F/009B.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "ch acha eechee ocho",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/26F/012B.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "close-back-rounded-vowel teaching dV",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/31F/042D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "close-back-unrounded-vowel post-test no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/31F/052D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "swallow",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/56M/015E.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "labiodental-nasal",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/15M/024D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "palatal-stop teaching no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/39F/031D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "palatal-stop post-test no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/39F/041D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "close-back-unrounded-vowel post-test no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/54F/048D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "close-back-unrounded-vowel teaching no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/47M/037D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "double-articulation pre-test no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/28F/054D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "spread-lips-post-alveolar-fricative",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/28F/079D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "s asa eesee oso",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/28F/005B.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "palatal-stop teaching aCa",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/52F/030D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "sam sham tap cap",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/52F/005A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "close-back-rounded-vowel post-test dV",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/52F/048D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "linguolabial",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/06F/098D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "th atha eethee otho",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/06F/003B.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "r ara eeree oro",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/06F/007B.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "close-back-unrounded-vowel teaching no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/06F/104D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "cardinal-1",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/06F/072D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "w awa eewee owo",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/06F/015B.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "close-back-rounded-vowel teaching no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/06F/093D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "parp burp hut",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/16F/021A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "close-back-rounded-vowel teaching no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/16F/059D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "spread-lips-post-alveolar-fricative",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/16F/056D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "kitchen sausage tiger rabbit",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/25M/045A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "double-articulation pre-test no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/25M/090D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "palatal-stop teaching no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/09F/103D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "tomato monkey toothbrush apple",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/09F/041A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "velar",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/09F/072D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "close-front-round-vowel teaching no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/09F/053D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "cardinal-4",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/09F/085D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "double-articulation teaching no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/30F/053D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "close-back-unrounded-vowel teaching no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/17M/094D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "thank you scissors helicopter bridge",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/17M/029A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "cardinal-4",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/24F/077D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "double-articulation post-test aCa",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/33F/046D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "home he who huge",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/33F/004A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "t ata eetee oto",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/08M/004B.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "boy pow part",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/08M/021A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "f afa eefee ofo",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/08M/002B.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "retroflex-fricative pre-test aCa",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/46F/020D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "close-back-unrounded-vowel post-test dV",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/36M/046D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "tomato monkey toothbrush apple",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/23F/042A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "f afa eefee ofo",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/23F/002B.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "creaky-voice",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/27M/064D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "umbrella elephant",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/27M/030A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "close-back-rounded-vowel teaching no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/57F/036D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "creaky-voice",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/03F/047D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "rap chap gap bap",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/55M/013A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "close-back-rounded-vowel post-test dV",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/55M/050D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "palatal-stop pre-test no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/42M/015D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "swallow",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/01M/034E.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "battle beetle bottle",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/01M/022A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "linguolabial",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/01M/119D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "lateral",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/01M/051D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "swallow",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/38M/014E.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "retroflex-fricative post-test no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/48F/043D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "close-back-rounded-vowel teaching dV",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/48F/036D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "close-back-rounded-vowel post-test no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/58F/050D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "close-back-unrounded-vowel teaching no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/58F/040D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "close-back-rounded-vowel pre-test no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/58F/025D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "retroflex-fricative teaching no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/11M/115D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "labiodental-nasal",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/11M/108D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "cardinal-1",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/11M/085D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "close-back-rounded-vowel teaching no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/11M/093D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "swallow",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/45M/007E.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "retroflex-fricative post-test no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/45M/043D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "palatal-stop teaching no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/50F/032D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "cardinal-4",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/13F/078D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "are aye oi ow",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/13F/024B.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "lateral",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/13F/046D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "double-articulation post-test no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/37M/042D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "retroflex-fricative pre-test no-context",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/37M/019D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "sheep snake pram feather",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/19M/038A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "creaky-voice",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/19M/060D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "linguolabial",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/19M/056D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "cardinal-4",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxtd/core/19M/076D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "yellow* strawberry* spider* web*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/08M/BL1/011A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "jam* legs* ring* watch*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/08M/BL1/022A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "sack* sore* mess* shack*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/08M/BL1/037A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "yellow* strawberry* spider* web*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/08M/BL2/008A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "The* boat* was* painted* white*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/08M/BL2/031C.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "moon* line* pan* loan*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/08M/Therapy_02/007A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "bank* pink* ponk*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/01M/Mid/020A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "I* cut* up* the* carrots* in* the* kitchen*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/01M/Therapy_07/010C.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "sheep* snake* pram* feather*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/01M/Post/008A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "coop* back* beak*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/01M/Post/042A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "cable* butterfly* coop* kitkat*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/01M/Post/016A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "gee* gay* geh* gah*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/01M/Therapy_05/003B.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "egg* splash* square* pig*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/01M/Maint1/005A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "cool* cake* coat*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/01M/Maint1/068A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "sheep* snake* pram* feather*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/01M/BL1/008A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "shore* tosh* puss* shower*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/03F/Maint/016A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "wore* berry* three* arrow*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/03F/Maint/032A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "ripe* really* crown* tour*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/03F/Therapy_08/007A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "fur* roller* fire* brown*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/03F/Therapy_01/013A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "g* aga* eegee* ogo*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/03F/BL1/072B.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "kitchen* sausage* tiger* rabbit*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/03F/BL1/026A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "pig* bird* teeth* door*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/03F/BL1/001A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "core* cone* peaking* table*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/03F/BL1/029A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "gloves* queen* three* frog*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/03F/Mid/011A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "She* put* the* dishes* in* the* dishwasher*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/03F/Therapy_10/004C.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "lass* leash* shoe* leese*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/03F/Therapy_03/005A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "girl* helicopter* dinosaur* ladybird*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/03F/Post/006A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "pack* lock* hook* mike*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/06M/BL1/025A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "maximum-phonation-ah*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/06M/BL1/053F.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "tomato* monkey* toothbrush* apple*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/06M/Maint2/010A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "kevin* mucky* can*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/06M/Post/072A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "scissors* fishing* lighthouse* zebra*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/06M/BL2/011A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "You* get* milk* from* cows*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/06M/Therapy_05/013C.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "You* get* milk* from* cows*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/06M/Therapy_05/011C.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "back* peck* neck*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/06M/Therapy_05/006A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "pocket* tickel* socket* jacket*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/06M/Mid/005A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "pack* back* mock* sock*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/06M/Mid/010A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "ran* fan* sun*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/06M/Therapy_06/009A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "sheep* snake* pram* feather*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/05M/BL1/024A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "kai* meek* poke* cow*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/05M/BL1/036A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "Two* pink* teddies*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/05M/BL1_round2/027A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "elephant* umbrella* train* swing*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/05M/Post/011A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "date* maggie* goo* giddy*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/05M/Maint2/030A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "kai* meek* poke* cow*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/05M/Maint2/024A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "scissors* fishing* lighthouse* zebra*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/05M/Post_round2/013A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "ohx* ohxk* ohk*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/05M/Therapy_01/004D.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "die* got* hag* Hague*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/05M/Therapy_05/017A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "guy* gab* dagger* gut*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/05M/Therapy_05/016A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "sink* think* rink*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/05M/Maint1/047A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "tore* keep* thicker* kitten*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/05M/Maint1/016A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "bag* peg* meg*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/05M/Maint1/064A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "sheep* snake* pram* feather*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/07F/Mid/009A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "goo* bog* bug* tigger*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/07F/Mid/030A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "I* had* chicken* curry* for* breakfast*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/07F/Therapy_06/019C.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "coop* back* beak*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/07F/Therapy_06/006A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "gore* gate* get* luggage*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/07F/Maint/026A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "coot* packer* toot* tie*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/07F/BL2/018A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "sock* zebra* sheep* chair*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/07F/BL1/004A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "elephant* umbrella* train* swing*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/07F/BL1/012A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "hour* pry* grow*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/02M/Maint1/045A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "cram* crinkle*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/02M/Maint1/068A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "yate* rewind* room* dray*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/02M/Maint1/037A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "lie* reek* hair* strewn*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/02M/Maint1/040A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "our* awr* oor*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/02M/Therapy_04/004B.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "owrow* awraw* ooroo*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/02M/Therapy_03/014B.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "scissors*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/02M/BL2/048A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "wore* berry* three* arrow*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/02M/BL2/002A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "lie* reek* hair* strewn*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/02M/BL2/056A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "renew*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/02M/Therapy_02/006A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "ree* ray* reh* rah*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/02M/Therapy_02/001B.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "pup* pop* pope* poop*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/02M/Post/065A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "wrong*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/02M/Therapy_08/030A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "crowd* run* car* more*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/02M/Therapy_08/017A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "yate* rewind* room* dray*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/02M/BL1/020A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "pie* buy* tie* die*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/02M/BL1/009A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "loom* tray* stripe* roast*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/02M/BL1/021A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "s* asa* eesee* oso*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/02M/BL1/072B.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "w* awa* eewee* owo*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/02M/BL1/086B.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "fish* van* thumb* this*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/02M/BL1/003A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "buttercup*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/04M/Therapy_02/008A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "book* boy*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/04M/Mid/013A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "loom* tray* stripe* roast*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/04M/Mid/049A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "knife* van* ear* this*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/04M/Mid/010A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "turkey*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/04M/Therapy_01/010A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "clock*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/04M/Therapy_01/001A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "kai* meek* poke* cow*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/04M/Post/036A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "bread* duck* giraffe* five*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/04M/Post/003A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "die* got* hag* Hague*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/04M/Post/044A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "door* geek* buggy* digger*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/04M/Post/039A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "do* ghost* meg* gown*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/04M/Post/042A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "sack* sore* mess* shack*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/04M/BL2/048A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "crab* biscuits* thank* you* helicopter*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/04M/Maint1/005A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "bread* duck* giraffe* five*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/04M/Maint1/003A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "bread* duck* giraffe* five*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/04M/BL1/047A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "My* Granny* Maggie* got* a* golden* gown*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/04M/BL1/111C.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "sock* shoop* shire* shallow*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/04M/BL1/126A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "lore* rate* eerie* shroom*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/04M/BL1/130A.mp3"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "content": "<audio>Transcribe this sound into text. If the speech is disordered, please mark the words with an asterisk.",
+                "role": "user"
+            },
+            {
+                "content": "girl* helicopter* dinosaur* ladybird*",
+                "role": "assistant"
+            }
+        ],
+        "audios": [
+            "UltraSuitePlus/processed-core-uxssd/core/04M/BL1/138A.mp3"
+        ]
+    }
+]
